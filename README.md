@@ -11,11 +11,12 @@ Neste repositório poderás encontrar o seguinte conteúdo:
 - resolução de [testes](testes/) e exames de anos anteriores
 - [slides](slides/) com a matéria abordada na cadeira
 - enunciados de [trabalhos](trabalhos/) práticos de vários anos
+- resolução de [tpcs](TPCs/)
 
 
 ## Jupyter Notebooks
 
-Para visualizar os **jupyter notebooks** disponibilizados, tanto para os **slides teóricos** como as **fichas práticas**, podes utilizar o [Google Colab](https://colab.google/).
+Para visualizar os **jupyter notebooks** disponibilizados, tanto para os **slides teóricos** como para as **fichas práticas**, podes utilizar o [Google Colab](https://colab.google/).
 
 ---
 
