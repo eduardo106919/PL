@@ -9,7 +9,7 @@ tokens = ("DECL", "SET", "PRINT", "READ", "WHILE", "FUN", "RETURN",
           "INT", "ID", "TRUE", "FALSE",
           "IF", "ADD", "SUB", "MUL", "DIV", "LT", "GT", "EQ")
 
-literals = "()"
+literals = "()[]"
 
 t_ADD = r"\+"
 t_SUB = r"-"

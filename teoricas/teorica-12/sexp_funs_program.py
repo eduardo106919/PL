@@ -1,6 +1,6 @@
-from sexp_plus_translator import parse, SyntaxError
-from sexp_plus_lexer import LexicalError
-from symbol_table import SemanticError
+from sexp_funs_translator import parse, SyntaxError
+from sexp_lexer import LexicalError
+from symbol_table_funs import SemanticError
 import sys
 
 try:

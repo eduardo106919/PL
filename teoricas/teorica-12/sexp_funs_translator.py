@@ -1,5 +1,5 @@
-from sexp_plus_lexer import tokens
-from symbol_table import SymbolTable, SemanticError
+from sexp_lexer import tokens
+from symbol_table_funs import SymbolTable, SemanticError
 import ply.yacc as yacc
 
 class SyntaxError(Exception):
